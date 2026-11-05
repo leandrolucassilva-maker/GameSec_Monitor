@@ -5,6 +5,7 @@ Este es el proyecto que armamos para el TP de Programacion 1. Se trata de una ap
 Integrantes del Grupo
 
 Alumno 1: Leandro Lucas Silva
+
 Alumno 2: Santiago Lima
 
 Introducción
